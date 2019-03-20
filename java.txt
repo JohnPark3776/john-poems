@@ -2,5 +2,5 @@ Java
 by John Park
 
 Java is awesome
-I really like the syntax
+I really like the language
 That is pretty cool
